@@ -1,4 +1,4 @@
-Unit 8 - Formative Coding Exercise
+Unit 8  Formative Coding Exercise
 
 Refactoring Pricing Logic Using Constants and the Strategy Pattern
 

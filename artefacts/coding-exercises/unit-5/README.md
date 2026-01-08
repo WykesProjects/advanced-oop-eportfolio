@@ -1,4 +1,4 @@
-Unit 5 – Formative Coding Exercise
+Unit 5 - Formative Coding Exercise
 
 Refactoring Payment Processing Using the Strategy Pattern
 
