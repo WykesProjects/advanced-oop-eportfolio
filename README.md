@@ -1,6 +1,6 @@
 # Advanced Object-Oriented Design and Programming - e-Portfolio
 
-This repository contains my e-Portfolio for the Advanced Object-Oriented Design and Programming module (AOODP25_PCOM7E).
+This repository contains my e-Portfolio for the Advanced Object-Oriented Design and Programming module.
 
 The e-Portfolio presents a curated collection of artefacts developed throughout the module, demonstrating my understanding and application of advanced object-oriented principles, secure coding practices, design patterns, and scalable software architecture. Collectively, these artefacts form a capstone-style body of work reflecting my learning journey across the module.
 
